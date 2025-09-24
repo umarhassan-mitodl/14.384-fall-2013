@@ -1,0 +1,25 @@
+---
+content_type: page
+description: This section provides the schedule of course topics.
+learning_resource_types: []
+ocw_type: CourseSection
+title: Calendar
+uid: e71619da-3f90-c6f4-f5e2-28fd5b15d929
+---
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}SES #{{< thclose >}}{{< thopen >}}TOPICS{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen colspan="2" >}}**I. Introduction: Stationary Time Series**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}1–3{{< tdclose >}}{{< tdopen >}}Introduction to stationary time series   
+_ARMA, limit theory for stationary time series, causal relationships, HAC_{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}3–4{{< tdclose >}}{{< tdopen >}}Frequency domain analysis   
+_Spectra; filters; transforms; nonparametric estimation_{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}5{{< tdclose >}}{{< tdopen >}}Model selection and information   
+_Consistent estimation of number of lags, discussion of non-uniformity and post-selection inferences_{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}**II. Mutivariate Stationary Analysis**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}6–7{{< tdclose >}}{{< tdopen >}}VAR   
+_Definition, estimation: OLS, ML, Granger causality, impulse response functions and variance decompositions_{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}8{{< tdclose >}}{{< tdopen >}}Structural VARs   
+_Identification, short term restrictions, long-term restrictions_{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}9{{< tdclose >}}{{< tdopen >}}VAR and DSGE models   
+_World decomposition, fundamentality of shocks, do long-run restrictions identify anything_{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}10–11{{< tdclose >}}{{< tdopen >}}Factor model and FAVAR   
+_Motivation, principal components, choosing number of static and dynamic factors, structural FAVAR, IV regression with factors_{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}**III. Univariate Non-Stationary Processes**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}12{{< tdclose >}}{{< tdopen >}}Asymptotic theory of empirical processes{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}13–14{{< tdclose >}}{{< tdopen >}}Univariate unit roots and near unit root problem   
+_Unit root problem, unit root testing, confidence sets for persistence, tests for stationarity_{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}15{{< tdclose >}}{{< tdopen >}}Structural breaks and non-linearity   
+_Testing for breaks with known and unknown dates, multiple breaks, estimating number of breaks_{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}**IV. Multivariate Non-Stationary**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}16–17{{< tdclose >}}{{< tdopen >}}Multivariate unit roots and co-integration   
+_Estimating cointegration relations, canonical form_{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}18{{< tdclose >}}{{< tdopen >}}Persistent regressors (prediction regression)   
+_Limit theory, Stambaugh correction, nuisance parameter problem, conservative procedures, conditional procedures_{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}**V. GMM and related issues**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}19{{< tdclose >}}{{< tdopen >}}GMM and Simulated GMM   
+_GMM estimation and asymptotic theory, testing in GMM setting, simulated method of moments and time series specifics: estimation of covariance structure, initial condition problem, indirect inference_{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}20{{< tdclose >}}{{< tdopen >}}Weak IV   
+_What is weak IV?, alternative asymptotic theory, how to detect weak IV, procedures robust to weak IV, unsolved problems._{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}**VI. Likelihood Methods**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}21{{< tdclose >}}{{< tdopen >}}Kalman filter and its applications   
+_State-Space models, time varying coefficients_{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}22{{< tdclose >}}{{< tdopen >}}ML estimation of DSGE   
+_Stochastic singularities problem, misspecification and quasi-ML, identification_{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}23{{< tdclose >}}{{< tdopen >}}Identification and weak identification of DSGE{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}**VII. Bayesian Methods**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}24{{< tdclose >}}{{< tdopen >}}Bayesian concepts{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}25{{< tdclose >}}{{< tdopen >}}Markov Chain Monte Carlo (MCMC)   
+_Metropolis-Hastings, Gibbs sampler, data augmentation_{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}26{{< tdclose >}}{{< tdopen >}}Estimation of DSGE models using Bayesian methods{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
