@@ -2,6 +2,8 @@
 content_type: page
 description: This syllabus section provides information on course goals, meeting times,
   prerequisites, grading, textbooks and readings, and feedback.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -72,7 +74,7 @@ Required
 
 Hamilton, James D. _Time Series Analysis_. Princeton University Press, 1994. ISBN: 9780691042893.
 
-The primary text is Hamilton (1994), which is somewhat outdated. A fantastic reference on the current state of the field is the method lectures "{{% resource_link "9baa3939-122a-495c-8eaa-2d0b61d7d5ad" "What's New in Econometrics-Time Series" %}}" delivered by James H. Stock and Mark W. Watson during NBER Summer Institute 2008. Most of the readings for the later parts of the course are journal articles. The course overviews a large literature, so not all topics are treated in the same depth, and only a few references listed under a topic will be covered. The other papers are additional references for those who wish to study specific topics in greater detail. The lectures will be self-contained.
+The primary text is Hamilton (1994), which is somewhat outdated. A fantastic reference on the current state of the field is the method lectures "[What's New in Econometrics-Time Series](http://www.nber.org/minicourse_2008.html)" delivered by James H. Stock and Mark W. Watson during NBER Summer Institute 2008. Most of the readings for the later parts of the course are journal articles. The course overviews a large literature, so not all topics are treated in the same depth, and only a few references listed under a topic will be covered. The other papers are additional references for those who wish to study specific topics in greater detail. The lectures will be self-contained.
 
 Acknowledgement
 ---------------
